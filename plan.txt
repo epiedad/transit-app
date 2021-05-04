@@ -1,0 +1,21 @@
+station 
+ - stores the stations average transit times
+ - info contains entry and exit info:
+    card number
+    station
+    datetime
+
+validation:
+ card number: must be integer
+ station: must be a string
+ time: valid date/time format YYYY/MM/DD hours:minutes:seconds
+
+STDIN:
+ Command options
+  Entry
+  Exit
+  Average
+	Calculates the average transit times between stations. If there's none yet, print -1
+ 
+STDOUT:
+ Saves the entry/exit with a message (Entry Saved!)
