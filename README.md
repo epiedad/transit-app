@@ -36,7 +36,7 @@ Entry saved!
 Input 3:\
 Average A B\
 Output 3:\
-570 seconds\
+570 seconds
 
 Input 4:\
 Entry: card number: 2, station: A, time: 2021/05/01 \
@@ -61,7 +61,7 @@ Entry saved!
 Input 8:\
 Average A B\
 Output 8:\
-555 seconds\
+555 seconds
 
 Input 9:\
 Average A C\
