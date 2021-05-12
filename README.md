@@ -26,12 +26,12 @@ Example inputs/outputs:
 Input 1: \
 Entry: card number: 1, station: A, time: 2021/05/01 09:30:00\
 Output 1:\
-Entry saved!\
+Entry saved!
 
 Input 2:\
 Exit: card number: 1, station: B, time: 2021/05/01 09:39:30\
 Output 2:\
-Entry saved!\
+Entry saved!
 
 Input 3:\
 Average A B\
@@ -41,22 +41,22 @@ Output 3:\
 Input 4:\
 Entry: card number: 2, station: A, time: 2021/05/01 \
 Output 4:\
-Invalid entry time!\
+Invalid entry time!
 
 Input 5:\
 Entry: card number: abc, station: A, time: 2021/05/01 20:00.00\
 Output 5:\
-Invalid card number!\
+Invalid card number!
 
 Input 6:\
 Entry: card number: 2, station: A, time: 2021/05/01 10:15:00\
 Output 6:\
-Entry saved!\
+Entry saved!
 
 Input 7:\
 Entry: card number: 2, station: B, time: 2021/05/01 10:24:00\
 Output 7:\
-Entry saved!\
+Entry saved!
 
 Input 8:\
 Average A B\
@@ -71,12 +71,12 @@ Output 9:\
 Input 10:\
 Entry: card number: 1, station: C, time: 2021/05/02 11:00:00\
 Output 10:\
-Entry saved!\
+Entry saved!
 
 Input 11:\
 Entry: card number: 1, station: A, time: 2021/05/02 11:05:00\
 Output 11:\
-Entry saved!\
+Entry saved!
 
 Input 12:\
 Average C A\
