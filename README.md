@@ -2,8 +2,6 @@
 Python app that determines the transit time between subway or public transportation stations
 
 
-Please write the solution to the following exercise in python and include any relevant tests for your code.
-
 Problem description:
 
 Keep track of average transit times between stations in a subway or other public transportation system.
